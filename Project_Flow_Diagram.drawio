@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T23:56:06.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tEpaU-2m97yZXh8FdOm8" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T23:58:39.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_A5_9VOF37h7Es5UX75s" version="24.5.5" type="github">
   <diagram name="Page-1" id="ew8Sho3sAJSPj7cg2W_-">
     <mxGraphModel dx="1647" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hnxbU6oILWO_c1c1rUPB-1" value="SQL Server-Onprem" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#bf3831;strokeColor=#b85450;fontSize=12;fontColor=#FFFFFF;gradientColor=none;gradientDirection=north;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="480" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
