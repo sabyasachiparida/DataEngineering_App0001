@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T00:04:15.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KpXXDP_GAnZPfWXn4y4a" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T05:40:29.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CWjxArDA8xgc4P1zKlkg" version="24.5.5" type="github">
   <diagram name="Page-1" id="ew8Sho3sAJSPj7cg2W_-">
     <mxGraphModel dx="1647" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,14 +9,23 @@
             <mxPoint x="90" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hnxbU6oILWO_c1c1rUPB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hnxbU6oILWO_c1c1rUPB-2" target="hnxbU6oILWO_c1c1rUPB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hnxbU6oILWO_c1c1rUPB-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Factory.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="50" height="50" as="geometry" />
+          <mxGeometry x="100" y="310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hnxbU6oILWO_c1c1rUPB-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
           <mxGeometry x="50" y="500" width="38" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hnxbU6oILWO_c1c1rUPB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="370" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="hnxbU6oILWO_c1c1rUPB-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake.svg;" vertex="1" parent="1">
-          <mxGeometry x="230" y="200" width="38" height="50" as="geometry" />
+          <mxGeometry x="200" y="240" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hnxbU6oILWO_c1c1rUPB-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="50" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
