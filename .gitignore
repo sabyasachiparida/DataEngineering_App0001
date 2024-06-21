@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/DB/AdventureWorks/AdventureWorks/bin/Debug
+/DB/AdventureWorks/AdventureWorks/Import Schema Logs
+/DB/AdventureWorks/AdventureWorks/obj/Debug
+/DB/AdventureWorks/AdventureWorks/AdventureWorks.sqlproj.user
+/DB/AdventureWorks/AdventureWorks/AdventureWorks.jfm
+/DB/AdventureWorks/.vs/AdventureWorks/FileContentIndex
+/DB/AdventureWorks/.vs/AdventureWorks/v17
